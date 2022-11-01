@@ -8,8 +8,9 @@
     height: 1030px;
     margin: 0px auto;
     /* background-color: aqua; */
-    background: url("bg.jpg") no-repeat;
+    background: url("bg.png") no-repeat;
     background-size: 100%;
+    background-position: 0px -48px; 
     overflow: hidden;
 }
 img {
